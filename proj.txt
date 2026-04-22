@@ -1,0 +1,6 @@
+EUDR Compliance & Carbon Asset Mapper
+Title: Agroforestry Carbon Sequestration & Deforestation Risk Engine
+Problem: New EU Deforestation Regulations (EUDR) threaten to de-list smallholders who cannot prove their land hasn't been cleared. Currently, cocoa farmers lack the technical tools to quantify the Carbon Assets (shade trees) that could actually provide them with additional "Carbon Credit" income.
+Deep Insight Solution: A remote-sensing pipeline using Python (Geopandas, Sentinel-Hub API). Calculate NDVI (Normalized Difference Vegetation Index) to differentiate between forest, agroforestry (shade cocoa), and monoculture.
+Streamlit Implementation: An interactive map where users click a farm polygon to see a 5-year vegetation trend and a calculated Sequestration Score (tonnes of $CO_2e$ per hectare).
+Recommendation: Frame this as a Market Access Tool. The goal isn't just "counting trees"; it's ensuring the farmer stays "Invisible to Visible" by meeting global sustainability standards.
