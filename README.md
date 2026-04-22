@@ -27,4 +27,3 @@ I developed an automated geospatial audit system:
 - Geospatial Analysis: Geopandas, Shapely, Fiona, Rasterio
 - Remote Sensing (NDVI, Sentinel-2)
 - Visualization: Plotly
-- Deployment: Streamlit
